@@ -1,4 +1,4 @@
-# # Oracle Next Education Challenge: Currency Converter
+# Oracle Next Education Challenge: Currency Converter
 
 This is a project developed for the Oracle Java Training Challenge, which is a currency converter application. The app allows users to perform currency conversions between foreign currencies and the local currency, which in this case is the Colombian Peso. Users can select the conversion direction (from local currency to foreign currency or vice versa) and choose the specific currency for the conversion. Additionally, users have the ability to modify the exchange rate values for each currency by adjusting the fields in the program's constants.
 
